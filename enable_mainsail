@@ -1,0 +1,2 @@
+  sudo systemctl disable octoprint.service
+  sudo systemctl enable moonraker.service
